@@ -9,9 +9,10 @@
     "nodemailer": "^6.10.0"
   },
   "name": "mailbackend",
-  "version": "1.0.0",
-  "main": "app.js",
+  "version": "0.1.0",
+  "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
